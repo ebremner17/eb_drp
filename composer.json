@@ -13,6 +13,10 @@
             "type": "composer",
             "url": "https://packages.drupal.org/8"
         },
+        "ebremner17/eb_blog": {
+            "type": "vcs",
+            "url": "https://github.com/ebremner17/eb_blog"
+        },
         "ebremner17/eb_components": {
             "type": "vcs",
             "url": "https://github.com/ebremner17/eb_components"
@@ -40,6 +44,7 @@
         "drupal/crop": "^2.6",
         "drupal/image_widget_crop": "^3.0",
         "drush/drush": "^13.8",
+        "ebremner17/eb_blog": "1.0.x-dev",
         "ebremner17/eb_config": "1.0.x-dev",
         "ebremner17/eb_components": "1.0.x-dev",
         "ebremner17/erics_theme": "1.0.x-dev",
