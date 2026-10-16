@@ -43,10 +43,11 @@
         "drupal/core-recommended": "^11.4",
         "drupal/crop": "^2.6",
         "drupal/image_widget_crop": "^3.0",
+        "drupal/pathauto": "^1.15",
         "drush/drush": "^13.8",
         "ebremner17/eb_blog": "1.0.x-dev",
-        "ebremner17/eb_config": "1.0.x-dev",
         "ebremner17/eb_components": "1.0.x-dev",
+        "ebremner17/eb_config": "1.0.x-dev",
         "ebremner17/erics_theme": "1.0.x-dev",
         "ebremner17/parenting_schedule": "1.0.x-dev"
     },
