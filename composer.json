@@ -32,6 +32,10 @@
         "ebremner17/parenting_schedule": {
             "type": "vcs",
             "url": "https://github.com/ebremner17/parenting_schedule"
+        },
+        "ebremner17/school_schedule": {
+            "type": "vcs",
+            "url": "https://github.com/ebremner17/school_schedule"
         }
     },
     "require": {
@@ -49,7 +53,8 @@
         "ebremner17/eb_components": "1.0.x-dev",
         "ebremner17/eb_config": "1.0.x-dev",
         "ebremner17/erics_theme": "1.0.x-dev",
-        "ebremner17/parenting_schedule": "1.0.x-dev"
+        "ebremner17/parenting_schedule": "1.0.x-dev",
+        "ebremner17/school_schedule": "1.0.x-dev"
     },
     "conflict": {
         "drupal/drupal": "*"
